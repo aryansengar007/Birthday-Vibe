@@ -3,7 +3,8 @@
 Birthday Vibe is an interactive and visually engaging birthday greeting webpage built using **HTML5, CSS3, JavaScript, jQuery, and Canvas**.  
 It combines smooth animations, background music, and animated text to create a memorable and emotional user experience.
 
-[![Dashboard Screenshot](assets_readme/hero.png)](assets/hero.png)
+[![Dashboard Screenshot](assets_readme/hero1.png)](assets/hero1.png)
+[![Dashboard Screenshot](assets_readme/hero2.png)](assets/hero2.png)
 
 ---
 
