@@ -3,6 +3,14 @@
 Birthday Vibe is an interactive and visually engaging birthday greeting webpage built using **HTML5, CSS3, JavaScript, jQuery, and Canvas**.  
 It combines smooth animations, background music, and animated text to create a memorable and emotional user experience.
 
+[![Dashboard Screenshot](assets_readme/hero.png)](assets/hero.png)
+
+---
+
+## 🔗 Live Demo
+
+[https://birthday-vibe.netlify.app/](https://birthday-vibe.netlify.app/)
+
 ---
 
 ## ✨ Features
@@ -31,20 +39,34 @@ It combines smooth animations, background music, and animated text to create a m
 ## 📁 Project Structure
 
 Birthday-Vibe/
+
 │
 ├── index.html
+
 ├── css/
+
 │ └── default.css
+
 ├── js/
+
 │ ├── jquery.min.js
+
 │ ├── function.js
+
 │ ├── love.js
+
 │ └── jscex/
+
 ├── assets/
+
 │ ├── audio/
+
 │ │ └── aud.mp3
+
 │ └── images/
+
 │ └── logo.svg
+
 
 ---
 
@@ -81,6 +103,17 @@ Birthday-Vibe/
 * GitHub Pages deployment
 
 ---
+
+## 👨‍💻 Author
+
+Aryan Sengar
+Frontend Developer | UI Enthusiast
+
+---
+
 © 2025 Aryan Sengar – All Rights Reserved  
 Unauthorized copying is strictly prohibited.
+
 ---
+
+> 💬 _Feel free to drop a ⭐ if you find this helpful!_
